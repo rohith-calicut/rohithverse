@@ -1,6 +1,6 @@
 # EntriVerse
 
-The internal design system for Entri. Source of truth for tokens, components, typography, color, spacing, elevation, and dark mode rules across web, Android, and iOS. Supports 11+ regional Indian languages.
+The internal design system for My company. Source of truth for tokens, components, typography, color, spacing, elevation, and dark mode rules across web, Android, and iOS. Supports 11+ regional Indian languages.
 
 This repo is the canonical home for the EntriVerse spec and ships as a **Claude Code marketplace plugin** so AI tools generate UI that matches the system without you pasting the spec into every prompt.
 
@@ -115,6 +115,5 @@ Things on the list, not yet built:
 
 ## License
 
-Proprietary. Copyright © 2026 Entri. All rights reserved. The repo is publicly visible to make collaboration with internal team and contractors easier; that visibility is not a grant of use rights. Internal Entri use only — not for redistribution outside the Entri organization. See [LICENSE](LICENSE).
+Proprietary. Copyright © 2026 Rohith. All rights reserved. The repo is publicly visible to make collaboration with internal team and contractors easier; that visibility is not a grant of use rights. Internal Entri use only — not for redistribution outside the Entri organization. See [LICENSE](LICENSE).
 
-"Entri" and "EntriVerse" are trademarks of Entri.
